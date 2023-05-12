@@ -1,0 +1,9 @@
+{
+  "server": {
+    "ip": "your_server_ip",
+    "port": your_server_port
+  },
+  "bot": {
+    "username": "YourUsername"
+  }
+}
